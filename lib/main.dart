@@ -8,7 +8,6 @@ void main() {
 class KayakBookingApp extends StatelessWidget {
   const KayakBookingApp({Key? key}) : super(key: key);
 
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

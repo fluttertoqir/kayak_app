@@ -15,6 +15,7 @@ List<Color> kayakColors = [
   Colors.pink,
   Colors.cyan,
   Colors.blue,
+  Colors.yellow,
   Colors.teal,
   Colors.green,
   Colors.brown,
